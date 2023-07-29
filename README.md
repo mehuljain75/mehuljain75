@@ -1,9 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mehul Jain</h1>
 <h3 align="center">A passionate game developer from India</h3>
-<img align="right" alt="Exploring" width="400" scr="vr.gif">
-
-
+<!-- [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com) -->
 
 - 🔭 I’m currently working on **Metahumans**
 
