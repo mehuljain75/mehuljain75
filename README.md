@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mehul Jain</h1>
 <h3 align="center">A passionate game developer from India</h3>
-<img align="right" alt="Exploring" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Exploring" width="400" scr="vr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuljain75&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain75" /> </p>
 
