@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Jain</h1>
 <h3 align="center">A passionate game developer from India</h3>
-<!-- [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com) -->
+![My Profile Image](https://github.com/mehuljain75/mehuljain75/blob/main/vr.gif)
+
 
 - 🔭 I’m currently working on **Metahumans**
 
