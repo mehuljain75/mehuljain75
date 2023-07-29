@@ -3,9 +3,7 @@
 <h3 align="center">A passionate game developer from India</h3>
 <img align="right" alt="Exploring" width="400" scr="vr.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuljain75&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain75" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehuljain75" alt="mehuljain75" /></a> </p>
 
 - 🔭 I’m currently working on **Metahumans**
 
