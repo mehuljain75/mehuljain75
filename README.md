@@ -49,23 +49,15 @@
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
   Email: jainmehul257@gmail.com<br>
-  Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)<br>
-  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mehuljain75)
 </p>
 
 <!-- GitHub Stats -->
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain75&layout=compact&hide=html" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mehuljain75&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <!-- Additional Info (optional) -->
-<h3 align="center">🌱 Currently Learning</h3>
-<p align="center">
-  - Machine Learning<br>
-  - Web Development
-</p>
 
 <!-- Footer -->
 <p align="center">Thanks for visiting my profile! Let's connect and collaborate on exciting projects!</p>
