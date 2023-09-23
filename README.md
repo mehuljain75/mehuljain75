@@ -9,7 +9,7 @@
 <!-- Badges or Shields (optional) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
-  <a href="https://github.com/your_username"><img src="https://img.shields.io/github/followers/your_username?style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/mehuljain75"><img src="https://img.shields.io/github/followers/mehuljain75?style=social" alt="GitHub Followers" /></a>
   <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter Follow" /></a>
 </p>
 
@@ -50,14 +50,14 @@
 <p align="center">
   Email: jainmehul257@gmail.com<br>
   Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)<br>
-  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_username)
+  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mehuljain75)
 </p>
 
 <!-- GitHub Stats -->
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide=html" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain75&layout=compact&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehuljain75&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <!-- Additional Info (optional) -->
