@@ -1,61 +1,69 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp7664856.png" alt="Game Developer Banner">
+  <img src="https://wallpapercave.com/wp/wp7664856.png" alt="Game Developer Banner" width="800" />
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi there, I'm Mehul Jain 👋</h1>
+<h1 align="center">Hello, I'm Mehul Jain 👋</h1>
 
-<!-- Badges or Shields (optional) -->
+<!-- Badges and Social Links -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
-  <a href="https://github.com/mehuljain75"><img src="https://img.shields.io/github/followers/mehuljain75?style=social" alt="GitHub Followers" /></a>
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter Follow" /></a>
+  <a href="https://github.com/mehuljain75">
+    <img src="https://img.shields.io/github/followers/mehuljain75?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Connect" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mehuljain75" alt="Profile Views" />
 </p>
 
 <!-- Introduction -->
-<h3 align="center">I'm a passionate game developer and technology enthusiast, currently working on <strong>Metahumans</strong>! 🦸‍♂️</h3>
-
-<!-- Technologies & Tools with Image on the Right -->
-<table>
-  <tr>
-    <td width="50%">
-      
-#### 🔧 Technologies & Tools
-
-- Unity Engine
-- Unreal Engine
-- Game Development
-- Augmented Reality (AR) / Virtual Reality (VR)
-- C++
-- Git
-
-    </td>
-    <td width="50%" align="center">
-      
-#### 📷 Virtual Reality
-
-![Virtual Reality GIF](https://github.com/mehuljain75/mehuljain75/blob/main/vr.gif)
-
-    </td>
-  </tr>
-</table>
-
-<!-- Fun Fact -->
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">I believe a good <strong>Sense of Humor</strong> is the key to staying sane in this tech-filled world.</p>
-
-<!-- How to reach me -->
-<h3 align="center">📫 How to reach me</h3>
+<h3 align="center">
+  🚀 Passionate Game Developer | AR/VR Enthusiast | Unreal Engine Specialist
+</h3>
 <p align="center">
-  Email: jainmehul257@gmail.com<br>
+  Currently diving deep into <strong>Metahumans</strong> and leveraging cutting-edge technologies to bring immersive experiences to life.
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">📈 GitHub Stats</h3>
+---
+
+### 🛠️ Technologies & Tools
+- **Game Engines**: Unity, Unreal Engine
+- **Programming Languages**: C++, Blueprint
+- **AR/VR Development**: Virtual Reality, Augmented Reality
+- **Version Control**: Git, GitHub
+- **Other**: Metahumans, UMG (Unreal Motion Graphics)
+
+---
+
+### 🚀 Featured Projects
+- **Metahuman AR Experience**: Created a realistic AR project using Unreal Engine’s Metahumans for character modeling.
+- **VR Space Adventure**: Developed a VR game simulating space exploration with Unreal Engine and C++.
+- **AR Furniture Visualization**: Built an AR app for real-time furniture placement using Unity and ARKit.
+
+---
+
+### 🔭 What I'm Currently Working On
+- Creating an advanced **Metahuman** character rig in Unreal Engine.
+- Experimenting with **Virtual Production** for game environments.
+- Building a GitHub repository to share game development tips and tricks.
+
+---
+
+### 🌐 Let's Connect
+- **GitHub**: [mehuljain75](https://github.com/mehuljain75)
+- **Email**: [jainmehul257@gmail.com](mailto:jainmehul257@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-handle)
+
+---
+
+### 🌟 Fun Fact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehuljain75&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  "A strong sense of humor keeps me creative and focused while working in the tech industry!"
 </p>
 
-<!-- Footer -->
-<p align="center">Thanks for visiting my profile! Let's connect and collaborate on exciting projects!</p>
+---
+
+<p align="center">
+  Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.
+</p>
