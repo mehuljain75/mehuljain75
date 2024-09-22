@@ -28,24 +28,23 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- **Game Engines**: Unity, Unreal Engine
+- **Game Engines**: Unreal, Unity Engine
 - **Programming Languages**: C++, Blueprint
 - **AR/VR Development**: Virtual Reality, Augmented Reality
 - **Version Control**: Git, GitHub
-- **Other**: Metahumans, UMG (Unreal Motion Graphics)
+- **Other**: Metahumans
 
 ---
 
 ### 🚀 Featured Projects
-- **Metahuman AR Experience**: Created a realistic AR project using Unreal Engine’s Metahumans for character modeling.
-- **VR Space Adventure**: Developed a VR game simulating space exploration with Unreal Engine and C++.
-- **AR Furniture Visualization**: Built an AR app for real-time furniture placement using Unity and ARKit.
+- **VR Mining Training**: Developed a VR game simulating training for coal mine workers.
+- **Artyfact**: Develop a 3D battle game using unreal engine.
 
 ---
 
 ### 🔭 What I'm Currently Working On
-- Creating an advanced **Metahuman** character rig in Unreal Engine.
-- Experimenting with **Virtual Production** for game environments.
+- Creating an advanced **Metahuman** character in Unreal Engine.
+- Experimenting with **Architectural Project**.
 - Building a GitHub repository to share game development tips and tricks.
 
 ---
