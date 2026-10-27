@@ -1,79 +1,82 @@
 
 <div align="center">
 
-# MEHUL JAIN
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:101D35,100:172554&height=180&section=header&text=MEHUL%20JAIN&fontSize=48&fontColor=E6EDF3&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%2F%20SYSTEMS%20%2F%20PROBLEM%20SOLVING&descSize=12&descAlignY=66&descColor=58A6FF" width="100%" alt="Mehul Jain — Software Engineering" />
 
-### SOFTWARE ENGINEER · APPLICATIONS · AI
+<br/>
 
-Building practical software, exploring system design,
-and turning ideas into working applications.
+**Software Developer · Builder · Lifelong Learner**
+
+*Turning ideas into thoughtful, reliable software.*
+
+<br/>
 
 [GitHub](https://github.com/mehuljain75)
-&nbsp;·&nbsp;
+&nbsp; ◈ &nbsp;
 [Email](mailto:jainmehul257@gmail.com)
 
 </div>
 
 ---
 
-## About
+### `01` — ABOUT
 
-Software developer with experience in application development,
-interactive 3D systems, and AI integrations. Currently focused on
-strengthening software engineering fundamentals and building
-maintainable, well-documented applications.
+I enjoy solving technical problems, building applications, and
+understanding how software systems work beneath the surface.
 
-- **Focus:** Software engineering, application architecture, APIs
-- **Languages:** Python, JavaScript/TypeScript, C#, SQL, C++
-- **Web:** Next.js, Tailwind CSS, Supabase
-- **Other experience:** Unreal Engine, Unity, AI integrations
-- **Interests:** Data structures and algorithms, testing, system design
+My background spans software development, interactive 3D experiences,
+and AI integrations. I'm focused on deepening my software engineering
+skills, writing maintainable code, and improving my problem-solving
+abilities.
 
-## Featured Work
-
-### DealFinder India — Product Discovery & Price Comparison
-
-[View repository](https://github.com/mehuljain75/Low-Price-Web)
-· [Live demo](https://low-price-web.jainmehul257.workers.dev)
-
-A web application for exploring products and comparing shopping offers.
-
-**Technology:** Next.js · TypeScript · Tailwind CSS · Supabase · Vitest
-
-- Product listing, filtering, sorting, and detail pages
-- Price and offer comparison interface
-- Retailer data-source and application-health tooling
-- Automated tests for selected application logic
-
-**Data note:** Amazon product data is the primary live-data focus.
-Other retailer entries may contain demo data. Check the application
-for current data-source status.
-
-## Engineering Interests
-
-- Data structures and algorithms
-- Readable, maintainable application code
-- API integration and data modeling
-- Automated testing and continuous integration
-- Practical AI-powered applications
-
-## Beyond Web Development
-
-I've also explored interactive 3D applications and game development.
-These experiences complement my interest in software architecture,
-debugging, and building interactive systems.
-
-## Current Priorities
-
-- Strengthen problem-solving and DSA fundamentals
-- Improve software design and testing practices
-- Document projects so other developers can run them
-- Build demonstrable projects with clear technical trade-offs
-
----
+### `02` — TECH STACK
 
 <div align="center">
 
-**Open to learning, building, and collaborating on useful software.**
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,sql,git,github&theme=dark&perline=8" alt="Programming languages and developer tools" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Interactive development tools" />
+
+</div>
+
+### `03` — WHAT I CARE ABOUT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Engineering**
+
+- Data structures & algorithms
+- Clean, maintainable code
+- Software design
+- Debugging & testing
+
+</td>
+<td width="50%" valign="top">
+
+**Exploration**
+
+- Application development
+- AI integrations
+- Interactive systems
+- Learning new technologies
+
+</td>
+</tr>
+</table>
+
+### `04` — ELSEWHERE
+
+- **GitHub:** [@mehuljain75](https://github.com/mehuljain75)
+- **Email:** [Get in touch](mailto:jainmehul257@gmail.com)
+
+<div align="center">
+
+<br/>
+
+<sub>BUILD · LEARN · ITERATE</sub>
 
 </div>
